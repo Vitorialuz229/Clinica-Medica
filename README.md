@@ -1,3 +1,115 @@
+# HTML Challenge
+
+## Instructions
+1. You must create a website for a medical clinic (you choose the specialty)
+2. This website must contain the following navigation menu:
+     - Main page
+     - About the clinic
+     - Opening hours
+     - Contact
+3. You must use all the subjects covered in class.
+
+Below is how each page should be created and structured.
+
+### Page structure
+
+All pages will have to follow a pre-defined pattern. As we haven't learned about CSS yet, use the `template.html` file to use as a base. It follows a structure similar to the image below.
+
+![Structure](https://i.stack.imgur.com/9jI6f.gif)
+
+\* _The template has some colors but it is just for better visualization. Feel free to change as best you can._
+
+In **Menu**, the navigation menu will be located (oh come on!), in the **Header** of each page there will be an image, in **Footer** contact information, and **Content** is the content of each page.
+### Main page
+1. There must be an image in the **Header**.
+2. In **Content** a brief description of the clinic.
+3. **Menu** and **Footer** defaults on all pages.
+
+### About the clinic
+1. There must be a different image in the **Header**.
+2. In **Content** a text talking about the clinic.
+3. **Menu** and **Footer** defaults on all pages.
+
+### Opening Hours
+1. There must be a different image in the **Header**.
+2. In **Content** a short text talking about the services, and a price table, where each line is a service, with the price of each one according to the days of the week.
+
+|Services |Monday to Friday | Saturdays | Holidays |
+|---|---|---|---|
+|General clinic | 08h - 19h | 08h - 14h | 08h - 14h |
+|Psychology | 08h - 19h | 08h - 14h | 08h - 14h |
+|Pediatrics | 08h - 19h | 08h - 18h | - |
+|Ophthalmology | 08h - 19h | 08h - 18h | - |
+|||||
+
+3. **Menu** and **Footer** defaults on all pages.
+
+
+### Contact
+1. There must be a different image in the **Header**.
+2. In **Content** you must have:
+     - Contact numbers (cell phone and WhatsApp)
+     - Full address of the clinic
+     - An Iframe with Google Maps pointing to the clinic's address
+     - A contact form with:
+         - Name (type="text")
+         - Email (type="email")
+         - Subject (type="text")
+         - Message (textarea)
+         - Submit and clear form buttons
+
+3. **Menu** and **Footer** defaults on all pages.
+
+Challenge concluded!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Desafio HTML
 
 ## Instruções
