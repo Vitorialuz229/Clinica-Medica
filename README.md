@@ -1,4 +1,4 @@
-# HTML Challenge PT| EN
+# HTML Challenge EN | PT-BR
 
 ## Instructions
 1. You must create a website for a medical clinic (you choose the specialty)
